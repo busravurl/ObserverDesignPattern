@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xy4XAocEt/eGxOoICghuXvcKdlcpemvcTrQLcqNvx12RjuW70M2q7+nJHmzZ91v16WMTICnQTs8PI3xEoD/8kQ==",
+  "success": true,
+  "projectFilePath": "D:\\vize projeler\\Dersler\\ObserverTasarımDeseni\\ObserverTasarımDeseni\\ObserverTasarımDeseni.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Büşra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Büşra\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Büşra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Büşra\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

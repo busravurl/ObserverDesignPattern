@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Büşra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Büşra\\.nuget\\packages"
+    ]
+  }
+}

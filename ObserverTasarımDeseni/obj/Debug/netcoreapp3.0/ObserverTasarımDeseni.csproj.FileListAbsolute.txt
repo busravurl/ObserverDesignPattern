@@ -1,0 +1,24 @@
+C:\Users\Büşra\source\repos\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.exe
+C:\Users\Büşra\source\repos\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.deps.json
+C:\Users\Büşra\source\repos\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.runtimeconfig.json
+C:\Users\Büşra\source\repos\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.runtimeconfig.dev.json
+C:\Users\Büşra\source\repos\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.dll
+C:\Users\Büşra\source\repos\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.pdb
+C:\Users\Büşra\source\repos\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.csprojAssemblyReference.cache
+C:\Users\Büşra\source\repos\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.AssemblyInfoInputs.cache
+C:\Users\Büşra\source\repos\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.AssemblyInfo.cs
+C:\Users\Büşra\source\repos\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.dll
+C:\Users\Büşra\source\repos\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.pdb
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.exe
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.deps.json
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.runtimeconfig.json
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.runtimeconfig.dev.json
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.dll
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\bin\Debug\netcoreapp3.0\ObserverTasarımDeseni.pdb
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.csprojAssemblyReference.cache
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.AssemblyInfoInputs.cache
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.AssemblyInfo.cs
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.csproj.CoreCompileInputs.cache
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.dll
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.pdb
+D:\vize projeler\Dersler\ObserverTasarımDeseni\ObserverTasarımDeseni\obj\Debug\netcoreapp3.0\ObserverTasarımDeseni.genruntimeconfig.cache
